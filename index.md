@@ -88,7 +88,7 @@ Thanks to [@tachiniererin](https://twitter.com/tachiniererin) for the inspiratio
 # Supported Boards
 
 ## Host
-* SWD 2x5 to Debug Edge [OSH Park](https://oshpark.com/shared_projects/NC93Zd5a) | [GitHub](https://github.com/debug-edge/DebugEdge)
+SWD 2x5 to Debug Edge | [OSH Park](https://oshpark.com/shared_projects/NC93Zd5a) | [GitHub](https://github.com/debug-edge/DebugEdge)
 
 ## Target
-* Target Breakout [OSH Park](https://oshpark.com/shared_projects/Z0EhBlPD) | [GitHub](https://github.com/debug-edge/DebugEdge/tree/master/DebugEdge_Target_Tester)
+Target Breakout | [OSH Park](https://oshpark.com/shared_projects/Z0EhBlPD) | [GitHub](https://github.com/debug-edge/DebugEdge/tree/master/DebugEdge_Target_Tester)
